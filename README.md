@@ -1,5 +1,6 @@
 # TinDogProject
 It will be a landing page of a web site call TinDog which is a kind of Tinder for Dog.
+Desing by Bootstrap and CSS only.
 
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
