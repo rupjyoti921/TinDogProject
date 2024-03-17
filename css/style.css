@@ -39,19 +39,38 @@
   align-content: center;
   flex-wrap: wrap;
 }
-h1{
+.title>h1{
   width:500px;
   font-weight: bold;
 }
 @media (max-width:768px){
-h1{
+.title>h1{
   width: 100%;
   font-weight: bold;
   }
 }
 
-.features{
+.features-css{
+height: 300px;
 display: flex;
 align-items: center;
-height: 300px;
+}
+
+.testimonial-img{
+  display: flex;
+  justify-content:space-around;
+}
+
+.dog-image{
+  margin:50px;
+}
+
+.price-heading, .price-heading h1{
+  display:block;
+  text-align: center;
+  width: 100%;
+}
+
+.card-text{
+  text-align: center;
 }
